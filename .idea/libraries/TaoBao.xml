@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TaoBao">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/lib/nutz-1.r.65.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/lib/TaobaoIP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
