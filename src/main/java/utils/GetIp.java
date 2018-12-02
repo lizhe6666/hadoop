@@ -10,6 +10,13 @@ import com.elevoc.sdk3rd.taobaoip.TaobaoIPResult;
  * @create: 2018-12-02 17:50
  */
 public class GetIp {
+    /*
+     * @description
+     * @author li zhe
+     * @date 2018/12/2 19:28
+     * @param [str = IpAddress]
+     * @return void
+     */
     public static void getIp(String str){
         TaobaoIPResult result = TaobaoIP.getResult(str);
         if (result.getCode() == 0){
