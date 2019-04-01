@@ -26,7 +26,7 @@ public class GetIp {
             System.out.println("运营商：" + result.getIsp());
         }
         else { System.err.println("ip地址查询失败，请检查ip地址是否正确"); }
-
+        //xiu gai
     }
 
     public static void main(String[] args) {
