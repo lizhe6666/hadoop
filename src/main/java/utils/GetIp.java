@@ -25,6 +25,7 @@ public class GetIp {
             System.out.println("城市：" + result.getCity());
             System.out.println("运营商：" + result.getIsp());
             System.out.println("测试中------------");
+            System.out.println("第二次测试--------");
         }
         else { System.err.println("ip地址查询失败，请检查ip地址是否正确"); }
 
