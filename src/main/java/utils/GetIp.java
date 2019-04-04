@@ -25,9 +25,13 @@ public class GetIp {
             System.out.println("城市：" + result.getCity());
             System.out.println("运营商：" + result.getIsp());
             System.out.println("测试中------------");
+            System.out.println("第二次测试--------");
         }
         else { System.err.println("ip地址查询失败，请检查ip地址是否正确"); }
-
+        //xiu gai
+        //第二次修改
+        //第三次修改
+        //我的修改
     }
 
     public static void main(String[] args) {
