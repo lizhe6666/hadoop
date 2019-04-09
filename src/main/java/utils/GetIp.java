@@ -26,7 +26,10 @@ public class GetIp {
             System.out.println("运营商：" + result.getIsp());
             System.out.println("测试中------------");
         }
-        else { System.err.println("ip地址查询失败，请检查ip地址是否正确"); }
+        else {
+            System.err.println("ip地址查询失败，请检查ip地址是否正确");
+            System.out.println("merge into master");
+        }
     }
 
     public static void main(String[] args) {
