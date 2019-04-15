@@ -28,8 +28,8 @@ public class GetIp {
         }
         else {
             System.err.println("ip地址查询失败，请检查ip地址是否正确");
-            System.out.println("merge into first");
-            System.out.println("2");
+            System.out.println("merge into mast");
+            System.out.println("hello world");
             System.out.println("1");
         }
     }
