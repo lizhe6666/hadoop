@@ -29,7 +29,7 @@ public class GetIp {
         else {
             System.err.println("ip地址查询失败，请检查ip地址是否正确");
             System.out.println("merge into mast");
-            #he
+            System.out.println("hello");
             System.out.println("1");
         }
     }
