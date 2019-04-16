@@ -32,6 +32,7 @@ public class GetIp {
             System.out.println("hello world");
             System.out.println("hello");
             System.out.println("1");
+            System.out.println("xiaoxiao");
         }
     }
 
